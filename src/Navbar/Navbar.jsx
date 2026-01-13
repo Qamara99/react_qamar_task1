@@ -2,7 +2,7 @@ import React from 'react'
 import style from './navbar.module.css'
 export default function Navbar() {
   return (
-  <nav className={`${style.bg} navbar navbar-expand-lg fixed-top p-4`}>
+  <nav className={`${style.bg} navbar navbar-expand-lg fixed-top p-4 `}>
   <div className="container">
     <a className="navbar-brand text-uppercase text-white fw-bold ms-5 fs-3" href="#">Start Bootstrap
 </a>
