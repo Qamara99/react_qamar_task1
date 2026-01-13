@@ -1,3 +1,4 @@
+import About from "./About/About"
 import Hero from "./Hero/Hero"
 import Navbar from "./Navbar/Navbar"
 import Portfolio from "./Portfolio/Portfolio"
@@ -10,6 +11,7 @@ function App() {
 <Navbar />
 <Hero />
 <Portfolio />
+<About />
     </>
     )
 }
